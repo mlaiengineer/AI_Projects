@@ -12,7 +12,7 @@ def main():
     tools = []
     agent_executor = create_react_agent(model, tools)
 
-    print("Welcome😍! I'm your AI assistant, type 'quit' to exit.")
+    print("Welcome😍! I'm your AI assistant, type 'quit' or 'خروج' to exit.")
     print("You can ask me for calculations 📠 or chat with me 👨🏽‍🦱.")
 
     while True:
@@ -21,6 +21,8 @@ def main():
         if user_input == 'quit':
             print("Thanks 😍 for chat with me 🤖🍵, this chat is ended🫡")
             break
+        if user_input == 'خروج':
+            print("شكراً لتحدث معي 🤖😍، انتهينا من هذه المحادثة🤖✈️")
 
         print("\nYour Assistant:", end="")
         for chunk in agent_executor.stream(
