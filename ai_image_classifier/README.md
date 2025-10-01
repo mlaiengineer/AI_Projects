@@ -37,7 +37,7 @@ Through this project, I:
 
 ## 🕒 Timeline
 
-I completed this project on **October 01, 2025, at 02:30 PM** after a **6-hour learning and practice session**.  
+I completed this project on **October 01, 2025, at 02:30 PM** after a **4-hour learning and practice session**.  
 The journey was challenging yet fulfilling, and it reinforced the importance of **discipline** and **continuous learning**. 💪
 
 ---
@@ -47,4 +47,5 @@ The journey was challenging yet fulfilling, and it reinforced the importance of 
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/ai-image-classifier.git
+
    cd ai-image-classifier
