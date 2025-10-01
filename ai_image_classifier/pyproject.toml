@@ -1,0 +1,11 @@
+[project]
+name = "ai-image-classifier-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "opencv-python>=4.12.0.88",
+    "streamlit>=1.50.0",
+    "tensorflow>=2.20.0",
+]
