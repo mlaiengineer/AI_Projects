@@ -46,6 +46,7 @@ The journey was challenging yet fulfilling, and it reinforced the importance of 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ai-image-classifier.git
+   git clone https://github.com/mlaiengineer/ai-image-classifier.git
 
    cd ai-image-classifier
+
